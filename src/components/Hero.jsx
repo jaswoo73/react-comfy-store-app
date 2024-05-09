@@ -15,10 +15,10 @@ const Hero = () => {
           We are simplifying the way people shop for furnitures
         </h1>
         <p className="mt-8 max-w-xl text-lg leading-8">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repellendus
-          libero at voluptatum asperiores veniam incidunt quaerat dolores
-          dolorem voluptatibus alias! Tempora ea molestias quos voluptas vel
-          cumque cum tempore sapiente.
+          Elevate your living space with our exquisite selection of furniture.
+          From stylish sofas to elegant dining sets, we&apos;re here to simplify
+          the way you shop for furniture. Explore our curated collection and
+          discover timeless pieces that effortlessly blend style and comfort.
         </p>
         <div className="mt-10">
           <Link to="/products" className="btn btn-primary">

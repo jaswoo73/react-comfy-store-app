@@ -14,12 +14,14 @@ const About = () => {
         </div>
       </div>
       <p className="mt-6 text-lg leading-8 max-w-2xl mx-auto text-justify">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium
-        culpa accusamus voluptates similique minus possimus fugit, ratione animi
-        ipsam repellat molestiae enim nostrum quo voluptatibus nam maxime
-        deleniti consectetur rem! Fuga earum deleniti nam nulla corporis a culpa
-        at soluta exercitationem explicabo quaerat quo in doloribus, illo sequi
-        ipsam qui!
+        Welcome to Comfy, where we believe that furniture shopping should be a
+        seamless and enjoyable experience. With a passion for quality
+        craftsmanship and design, we handpick each piece in our collection to
+        ensure that every item brings both beauty and functionality to your
+        home. Our commitment to exceptional customer service and attention to
+        detail sets us apart, guiding you through every step of creating a space
+        you&apos;ll love to live in. Explore our story and discover why Comfy is
+        your destination for premium furniture and decor.
       </p>
     </>
   );
